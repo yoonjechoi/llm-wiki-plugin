@@ -1,5 +1,7 @@
 # llm-wiki
 
+> **보관됨:** 이 플러그인은 [yoonjechoi/knowledge-base](https://github.com/yoonjechoi/knowledge-base) 1.0 으로 옮겼어요. 새로 설치하려면 그 저장소를 쓰세요.
+
 카파시의 [LLM Wiki gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) 그대로 만든 개인 지식베이스 플러그인이에요(Claude Code).
 
 자료를 넣을 때마다 AI가 읽고 요약하고, 관련 페이지를 고치고 서로 이어서 지식베이스가 점점 쌓여요. 질문할 때마다 처음부터 찾는 대신, 이미 정리된 페이지에서 답해요.
