@@ -1,0 +1,14 @@
+{
+  "name": "llm-wiki",
+  "description": "카파시 LLM Wiki 방식 개인 지식베이스 플러그인 마켓플레이스.",
+  "owner": { "name": "yoonjechoi", "url": "https://github.com/yoonjechoi" },
+  "plugins": [
+    {
+      "name": "llm-wiki",
+      "description": "setup · ingest · query · lint — 카파시 LLM Wiki gist 그대로.",
+      "source": "./plugins/llm-wiki",
+      "category": "productivity",
+      "tags": ["llm-wiki", "knowledge-base", "karpathy", "korean"]
+    }
+  ]
+}
